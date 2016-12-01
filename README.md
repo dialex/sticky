@@ -1,6 +1,3 @@
-# sticky
+# Stickers Website
 
-Cool themes
-
-- https://startbootstrap.com/template-overviews/stylish-portfolio/
-- https://startbootstrap.com/template-overviews/creative/
+Design based on [Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/) template.
