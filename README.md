@@ -2,7 +2,11 @@
 
 Design based on [Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/) template.
 
-Games included:
+### TODO
+
+add disclaimer about partners and Redbubble. We are just curators.
+
+## Games included
 
 0. Pokemon
 0. Minecraft
