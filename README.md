@@ -8,11 +8,6 @@ add disclaimer about partners and Redbubble. We are just curators.
 
 ## Games included
 
-0. Pokemon
-0. Minecraft
-0. Zelda
-0. Undertale
-
 0. World Of Warcraft
 0. Call Of Duty
 0. League of Legends
