@@ -2,16 +2,7 @@
 
 Design based on [Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/) template.
 
-### TODO
-
-add disclaimer about partners and Redbubble. We are just curators.
-
 ## Games included
-
-0. World Of Warcraft
-0. Call Of Duty
-0. League of Legends
-0. Overwatch
 
 0. Skyrim
 0. Civilization
