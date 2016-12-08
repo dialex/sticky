@@ -14,6 +14,10 @@ Design based on [Stylish Portfolio](https://startbootstrap.com/template-overview
 - Pac Man
 - Sonic
 
+#### Custom domain
+
+- https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages
+
 #### Optimize images
 
 ```sh
