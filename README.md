@@ -5,7 +5,7 @@ Design based on [Stylish Portfolio](https://startbootstrap.com/template-overview
 ## Games included
 
 - ~~Skyrim~~
-- Civilization
+- ~~Civilization~~
 - Assassin's Creed
 - Star Wars
 
