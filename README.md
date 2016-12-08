@@ -4,9 +4,9 @@ Design based on [Stylish Portfolio](https://startbootstrap.com/template-overview
 
 ## Games included
 
-- Kingdom Hearts
+- ~~Kingdom Hearts~~
 - Mortal Kombat
-- Angry Birds
+- ~~Angry Birds~~
 - Neko Atsume
 
 - Super Mario
