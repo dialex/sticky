@@ -6,7 +6,7 @@ Design based on [Stylish Portfolio](https://startbootstrap.com/template-overview
 
 - ~~Skyrim~~
 - ~~Civilization~~
-- Assassin's Creed
+- ~~Assassin's Creed~~
 - Star Wars
 
 - Kingdom Hearts
