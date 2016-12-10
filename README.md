@@ -4,11 +4,7 @@ Design based on [Stylish Portfolio](https://startbootstrap.com/template-overview
 
 ## Games included
 
-- ~~Kingdom Hearts~~
 - Mortal Kombat
-- ~~Angry Birds~~
-- ~~Neko Atsume~~
-
 - Super Mario
 - Mario Kart
 - Pac Man
@@ -21,9 +17,11 @@ Design based on [Stylish Portfolio](https://startbootstrap.com/template-overview
 #### Optimize images
 
 ```sh
-echo "Converting all JPGs to progressive..."
+# Converting all JPGs to progressive...
 for i in products/game/**/*.jpg; do convert -strip -interlace Plane -quality 80 $i $i; done
-echo "Converting all PNGs to interlaced..."
+for i in *.jpg; do convert -strip -interlace Plane -quality 80 $i $i; done
+# Converting all PNGs to interlaced...
 for i in products/game/**/*.png; do convert -strip -interlace Plane $i $i; done
+for i in *.png; do convert -strip -interlace Plane $i $i; done
 echo "Finished!"
 ```
